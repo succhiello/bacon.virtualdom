@@ -1,0 +1,15 @@
+{	
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "commonjs",
+                "out": "./lib/index.js"
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"files": [
+		"./typings/baconjs/baconjs.d.ts",	
+		"./typings/virtual-dom/virtual-dom.d.ts",
+                "./src/index.ts"
+	]
+}

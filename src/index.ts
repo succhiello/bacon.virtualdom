@@ -1,7 +1,7 @@
 'use strict';
 
-import Bacon from 'baconjs'
-import vdom from 'virtual-dom'
+import * as Bacon from 'baconjs'
+import * as vdom from 'virtual-dom'
 
 let BaconVdom = {
 
